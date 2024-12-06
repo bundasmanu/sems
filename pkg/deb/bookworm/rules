@@ -6,7 +6,7 @@ export DH_VERBOSE=1
 
 PYTHON_MODULES=ivr ivr-python2 conf_auth mailbox pin_collect
 
-EXCLUDED_MODULES=gateway examples mp3 twit
+EXCLUDED_MODULES=twit
 
 EXCLUDED_DSM_MODULES=mod_aws
 EXCLUDED_DSM_PY_MODULES=mod_aws
